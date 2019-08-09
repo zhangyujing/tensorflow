@@ -15,6 +15,7 @@
 # pylint: disable=unidiomatic-typecheck
 """Prototype decorator for defining graph functions with eager semantics."""
 
+# comment
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
